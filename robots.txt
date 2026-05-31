@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://opala-brasa.pages.dev/sitemap.xml
